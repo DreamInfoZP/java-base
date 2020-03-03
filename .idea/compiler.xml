@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bank-test" />
         <module name="base" />
+        <module name="power" />
         <module name="concurrency_tool_practice" />
         <module name="thread" />
       </profile>
