@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c8b43e6-6574-4a92-bebd-6ed42213d4f8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="309" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UadSLxtH0hLcCvaSAUtthH05vp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/base/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/base/doc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/base/src/main/resources" />
+      <recent name="$PROJECT_DIR$/bank-test/src/main/java/com/zp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lock.readwrite" />
+      <recent name="threadLocal" />
+      <recent name="com.zp" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JSONLogTest">
+    <configuration name="FinalStringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="immutable.FinalStringDemo" />
+      <module name="concurrency_tool_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FundInExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zp.tap.execel.FundInExcel" />
+      <module name="base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zp.tap.execel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONLogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zp.JSONLogTest" />
+      <module name="base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongAccumulatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic.LongAccumulatorDemo" />
+      <module name="concurrency_tool_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atomic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoThreadsCompetition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cas.TwoThreadsCompetition" />
+      <module name="concurrency_tool_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LongAccumulatorDemo" />
+      <item itemvalue="Application.TwoThreadsCompetition" />
+      <item itemvalue="Application.FinalStringDemo" />
+      <item itemvalue="Application.FundInExcel" />
+      <item itemvalue="Application.JSONLogTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JSONLogTest" />
+        <item itemvalue="Application.FundInExcel" />
+        <item itemvalue="Application.FinalStringDemo" />
+        <item itemvalue="Application.TwoThreadsCompetition" />
+        <item itemvalue="Application.LongAccumulatorDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c8b43e6-6574-4a92-bebd-6ed42213d4f8" name="Default Changelist" comment="" />
+      <created>1575598638974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575598638974</updated>
+      <workItem from="1575598642136" duration="2177000" />
+      <workItem from="1575610947758" duration="10265000" />
+      <workItem from="1575629758749" duration="251000" />
+      <workItem from="1575630035400" duration="173000" />
+      <workItem from="1575630230299" duration="879000" />
+      <workItem from="1575631177893" duration="646000" />
+      <workItem from="1575965017002" duration="16713000" />
+      <workItem from="1576064514095" duration="5000" />
+      <workItem from="1576064544940" duration="727000" />
+      <workItem from="1576066606328" duration="406000" />
+      <workItem from="1576149609221" duration="89000" />
+      <workItem from="1576149700538" duration="120000" />
+      <workItem from="1576639814134" duration="3444000" />
+      <workItem from="1576759425983" duration="136000" />
+      <workItem from="1576759674322" duration="6808000" />
+      <workItem from="1577693748707" duration="14000" />
+      <workItem from="1577693771966" duration="85000" />
+      <workItem from="1577693867393" duration="4394000" />
+      <workItem from="1577759694495" duration="770000" />
+      <workItem from="1578280584503" duration="629000" />
+      <workItem from="1578363914498" duration="25323000" />
+      <workItem from="1578624537597" duration="1458000" />
+      <workItem from="1578796102848" duration="7808000" />
+      <workItem from="1578812940179" duration="6480000" />
+      <workItem from="1578879904004" duration="11984000" />
+      <workItem from="1578914131309" duration="332000" />
+      <workItem from="1579178759337" duration="14978000" />
+      <workItem from="1579404768300" duration="5135000" />
+      <workItem from="1579486995405" duration="17286000" />
+      <workItem from="1581821720815" duration="9100000" />
+      <workItem from="1582099670069" duration="2964000" />
+      <workItem from="1583217550011" duration="216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/base/src/main/java/com/zp/TestReflect.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bank-test/src/main/java/com/zp/paytabs/CreatePageAPI.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/juc/concurrency_tool_practice/src/main/java/cas/TwoThreadsCompetition.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/base/src/main/java/com/zp/tap/execel/FundInExcel.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_base$Test__1_.ic" NAME="Test (1) Coverage Results" MODIFIED="1576640147291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_base$FixedThreadPoolOOM.ic" NAME="FixedThreadPoolOOM Coverage Results" MODIFIED="1578466179432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>threadpool.*</FILTER>
+    </SUITE>
+  </component>
+</project>
