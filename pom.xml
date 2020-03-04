@@ -14,6 +14,7 @@
         <module>juc</module>
         <module>bank-test</module>
         <module>power</module>
+        <module>go</module>
     </modules>
 
     <dependencies>

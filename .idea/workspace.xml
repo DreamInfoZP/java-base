@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c8b43e6-6574-4a92-bebd-6ed42213d4f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/power/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/power/sql/power.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +59,10 @@
   <component name="ProjectId" id="1UadSLxtH0hLcCvaSAUtthH05vp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -72,10 +74,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zp" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/base/doc" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/power" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/base/src/main/resources" />
       <recent name="$PROJECT_DIR$/bank-test/src/main/java/com/zp" />
@@ -85,8 +88,8 @@
       <recent name="threadLocal" />
       <recent name="com.zp" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/base/doc" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -230,7 +233,7 @@
       <workItem from="1582099670069" duration="2964000" />
       <workItem from="1583217550011" duration="2254000" />
       <workItem from="1583221873332" duration="596000" />
-      <workItem from="1583227209585" duration="193000" />
+      <workItem from="1583227209585" duration="1429000" />
     </task>
     <servers />
   </component>

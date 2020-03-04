@@ -7,11 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="bank-test" />
         <module name="base" />
-        <module name="power" />
         <module name="concurrency_tool_practice" />
         <module name="thread" />
+        <module name="go" />
+        <module name="power" />
+        <module name="bank-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -37,3 +37,5 @@ src/
 thread/src/main/resources/
 thread/src/test/
 thread/target/generated-sources/
+power.iml
+power/power.iml
